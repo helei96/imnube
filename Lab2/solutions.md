@@ -10,4 +10,5 @@
   Personally I like GPL or just basic copylefting licenses because it permitted distribution, usage and modification of software but must allow software freedom for any modification in the case of distribution.
 7) Group 5
 8) TBA
-10) 
+10) Sumit Munshi, Alvin Leeong, Helen Lei, Christopher Ngai, Aman Zargarpur (potential group)
+  Considering making a chrome extension?
