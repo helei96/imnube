@@ -1,3 +1,7 @@
+1) Freedom to run the program for any use  
+Access to source code and freedom to study/edit the code  
+Freedom to redistribute
+Freedom to distrubute modified versions  
 2) Why is it important to choose a License?   
   Licenses are important for users to acquire the rights to use an available product or software. Having a certain license available that approves distribution and use permits consumers of your software access to use it.  
 3) Why they shouldn't use a project that doesn't have an explicit license
