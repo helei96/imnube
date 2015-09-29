@@ -4,4 +4,6 @@ my screenshots are in the repo linked above
 https://github.com/helei96/Spoon-Knife  
 spoon-knife fork in link above  
 https://github.com/helei96/courseproject/blob/master/References.md  
-references to project
+references to project  
+Forking Story (with table)  
+https://github.com/cjngai/Story
