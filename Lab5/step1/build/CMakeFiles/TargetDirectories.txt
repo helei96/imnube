@@ -1,0 +1,1 @@
+/home/ubuntu/Desktop/step1/build/CMakeFiles/Tutorial.dir

@@ -1,0 +1,2 @@
+/home/ubuntu/Desktop/step2/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/ubuntu/Desktop/step2/build/CMakeFiles/Tutorial.dir
